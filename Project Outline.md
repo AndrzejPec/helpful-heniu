@@ -1,12 +1,12 @@
 ## Project Outline: Helpful Heniu - your personal AI-powered secretary app for summarizing your daily e-mail inbox content. Simple and helpful.
 
-**Project Name:** Helpful Heniu - summarize incoming mail.
+**Project Name:** _Helpful Heniu - summarize incoming mail._
 
 **Start Date:** April 12, 2024
 
 **Anticipated Completion Date:** May 2, 2024
 
-**Project Leader:** Andrzej Pec
+**Project Team:** `[Andrzej Pec as HeadHoncho, null as ProjectPartner]` ***(currently looking for a person to make a duet collab)***
 
 ### Project Goal:
 To create a web application that allows users to send the content of their received emails for processing by an AI bot, to generate summaries and analyses. The application aims to increase time and information management efficiency by automating the processing and summarization of received message content.
@@ -26,11 +26,19 @@ To create a web application that allows users to send the content of their recei
 - Creating a database to store generated summaries.
 
 ### Technologies:
-- **Frontend:** React.js / Next.js – for a dynamic user interface.
-- **Backend:** Node.js with Express.js – to handle application logic and API communication.
-- **APIs:** Gmail API, OpenAI API.
-- **Security:** OAuth 2.0 for authorization, HTTPS for secure communication.
-- **Database:** MongoDB – for its flexibility and ease of scaling.
+- **Frontend:**
+  - **Astro** – "One tool to optimize them all" - the delivery of the website, performance and SEO.
+  - **React.js / Next.js** – For dynamic and interactive user interface.
+- **Backend:**
+  - **Node.js with Express.js** – Robust server-side environment for our app’s backend needs.
+- **APIs:**
+  - **Gmail API** – Fetch users’ emails for processing.
+  - **OpenAI API** – Analyze and generate summaries from the fetched emails.
+- **Security:**
+  - **OAuth 2.0** – Secure authorization for accessing user data from third-party services.
+  - **HTTPS** – Secure connections between the client and server.
+- **Database:**
+  - **MongoDB** – For its flexibility and scalability.
 
 ### Learning Plan:
 - Learning advanced aspects of React.js and/or Next.js - choosing the right tool for the frontend.

@@ -4,7 +4,7 @@
 
 **Start Date:** April 12, 2024
 
-**Anticipated Completion Date:** April 30, 2024
+**Anticipated Completion Date:** May 2, 2024
 
 **Project Leader:** Andrzej Pec
 
@@ -40,11 +40,11 @@ To create a web application that allows users to send the content of their recei
 - Understanding and implementing secure methods of authentication and communication in web applications.
 
 ### Preliminary Schedule:
-- **Research Phase (April 12 - April 14)** – Learning necessary technologies and preparing the environment. **Asking experts for their opinions on design choices and planning the timing of the next steps.**
-- **Design Phase (April 15 - April 18)** – Designing the application architecture and user interface.
-- **Implementation Phase (April 19 - April 21)** – Creating a working prototype of the application.
-- **Testing Phase (April 23 - April 26)** – Refining the interface appearance and iterative preliminary testing.
-- **Deployment Phase (April 29 - April 30)** – Publishing the application and monitoring its performance.
+- **Research Phase (April 12 - April 15)** – Learning necessary technologies and preparing the environment. **Asking experts for their opinions on design choices and planning the timing of the next steps.**
+- **Design Phase (April 17 - April 20)** – Designing the application architecture and user interface.
+- **Implementation Phase (April 22 - April 25)** – Creating a working prototype of the application.
+- **Testing Phase (April 27 - April 30)** – Refining the interface appearance and iterative preliminary testing.
+- **Deployment Phase (May 2 onwards)** – Publishing the application and monitoring its performance.
 
 ### Possibilities for Further Development (Stage 2):
 - Increase the range of settings for reading emails by AI and the way results are presented (possibility to set e.g., the temperature for the bot's output).
